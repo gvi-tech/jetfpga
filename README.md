@@ -1,7 +1,7 @@
 <img src="./docs/images/hi01.png">
 
 
-# [Hi01 board](http://www.gvi-tech.com/pro_detail/47.html) Tests
+# [Hi01 board](http://www.gvi-tech.com/pro_detail/47.html)
 In this repository are some tests for Hi01 board, which integrates FPGA and NVIDIA Jetson Nano Developer Kit on one board.
 
 ## Technical Detail of Hi01 board
